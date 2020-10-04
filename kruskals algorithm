@@ -5,7 +5,7 @@ using namespace std;
   
 // a structure to represent a weighted edge in graph  
 class Edge  
-{  
+{  asdasd
     public: 
     int src, dest, weight;  
 };  
